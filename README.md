@@ -1,2 +1,2 @@
 # login-simple
-An algorithm emulating a login process using the time module. 
+A simple algorithm emulating a login process using the time module. 
